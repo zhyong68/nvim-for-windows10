@@ -17,7 +17,7 @@ git clone https://github.com/fgheng/vime -C ~/AppData/Local/nvim
 ```
 然后打开neovim，执行:PlugInstall等待插件安装完毕即可！
 
-部分插件不可使用，如：`p00f/nvim-ts-rainbow`,`Plug 'neoclide/coc.nvim', { 'branch': 'release' }`和下面所有。
+部分插件不可使用，如：`p00f/nvim-ts-rainbow`,`Plug 'puremourning/vimspector'`,`Plug 'neoclide/coc.nvim', { 'branch': 'release' }`和下面所有。
 
 ```
 if has('nvim')
