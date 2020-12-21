@@ -1,6 +1,6 @@
 # 移植到Windows10 使用
 
-首先安装好neovim，https://github.com/neovim/neovim/releases，解压后添加到环境变量。
+首先安装好neovim，https://github.com/neovim/neovim/releases ，解压后添加到环境变量。
 
 > 添加到右键菜单：https://jingyan.baidu.com/article/08b6a591f334f914a809223b.html
 
